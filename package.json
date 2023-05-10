@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/dream-project-19/",
+    "build": "vite build --base=/html-css_86_DenysVM/",
     "preview": "vite preview"
   },
   "devDependencies": {
